@@ -42,7 +42,7 @@ main{
   border-width: 1px;
   border-color:gray;
   display:flex;
-  flex-flow: column;
+  flex-flow: column; 
   align-items: center;
 }
 .social{
